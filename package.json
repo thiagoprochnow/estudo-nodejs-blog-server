@@ -1,0 +1,22 @@
+{
+  "name": "estudo-nodejs-blog-server",
+  "version": "1.0.0",
+  "description": "Criação de um servidor de blog para estudo de NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagoprochnow/estudo-nodejs-blog-server.git"
+  },
+  "author": "thiprochnow@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagoprochnow/estudo-nodejs-blog-server/issues"
+  },
+  "homepage": "https://github.com/thiagoprochnow/estudo-nodejs-blog-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
